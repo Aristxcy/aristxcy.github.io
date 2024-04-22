@@ -4,22 +4,9 @@
   
     
     <entry>
-      <title>mirror_descent</title>
-      <link href="/2024/04/22/mirror-descent/"/>
-      <url>/2024/04/22/mirror-descent/</url>
-      
-        <content type="html"><![CDATA[<p>We are hurting each other. <img src="test.png" /></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>My first article</title>
-      <link href="/2024/04/22/My-first-article/"/>
-      <url>/2024/04/22/My-first-article/</url>
+      <link href="/2024/My-first-article/"/>
+      <url>/2024/My-first-article/</url>
       
         <content type="html"><![CDATA[<p>Today, I want to talk about how to compute <spanclass="math inline">\(a^2 + b^2 = c^2\)</span>.</p><p><span class="math display">\[1 + 2 = 3\alpha\]</span></p><p><span class="math display">\[\begin{equation}\begin{split}    a^2 &amp; = b^2 \\        &amp; + c^2 \\\end{split}\end{equation}\]</span></p>]]></content>
       
